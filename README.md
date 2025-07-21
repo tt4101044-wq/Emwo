@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your GitHub username and token
-USERNAME = 'tt4101044'
+USERNAME = 'tt4101044-wq'
 TOKEN = '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'
 
 REPO_NAME = 'Please-Donate-Script-Hub'
